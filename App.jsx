@@ -118,7 +118,7 @@ const SKILLS = [
 
 const SOCIALS = [
   { label: 'GitHub', href: 'https://github.com/HamedAdam-dev' },
-  { label: 'LinkedIn', href: 'www.linkedin.com/in/hamed-adam-dev' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/hamed-adam-dev' },
   { label: 'Email', href: `mailto:${EMAIL}` },
 ]
 
